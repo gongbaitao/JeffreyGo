@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/gongbaitao/JeffreyGo/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+let's test the [page jump](notes_04_25.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
